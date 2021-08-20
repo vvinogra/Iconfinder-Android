@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black_pearl">#171c20</color>
+    <color name="black_pearl_light">#3d4347</color>
+    <color name="black_pearl_dark">#000000</color>
+
+    <color name="chinese_silver">#cccccc</color>
+</resources>

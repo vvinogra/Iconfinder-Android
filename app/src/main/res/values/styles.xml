@@ -1,0 +1,10 @@
+<resources>
+    <style name="Widget.Iconfinder.ProgressBar" parent="Widget.AppCompat.ProgressBar">
+        <item name="colorAccent">?colorPrimary</item>
+    </style>
+
+    <style name="Widget.Iconfinder.Toolbar" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="theme">@style/ThemeOverlay.MaterialComponents.Dark.ActionBar</item>
+        <item name="popupTheme">@style/ThemeOverlay.MaterialComponents.Light</item>
+    </style>
+</resources>
